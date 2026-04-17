@@ -1,0 +1,17 @@
+{
+  "short_name": "TaskBoard",
+  "name": "Day-wise Task Board",
+  "description": "Note tasks day-wise and mark them done",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#0A0A0F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
